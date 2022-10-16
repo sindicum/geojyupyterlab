@@ -12,5 +12,5 @@ folium>=0.13.0
 geetools>=0.6.14
 earthengine-api>=0.1.326
 google-auth>=2.12.0
-
+git+https://github.com/sindicum/sentinelimage.git
 
