@@ -1,0 +1,8 @@
+.DS_Store
+.git
+__pycache__
+venv
+venv.nosync
+.ipynb_checkpoints
+*.json
+docker.env
