@@ -3,7 +3,7 @@ services:
   jupyterlab:
     container_name: 'jupyterlab'
     build: .
-    env_file: ./docker.env
+    # env_file: ./docker.env
     volumes:
       - ./root_jupyter:/root/.jupyter
       - ./workspace:/workspace
