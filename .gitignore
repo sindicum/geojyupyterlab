@@ -6,3 +6,4 @@ venv.nosync
 .ipynb_checkpoints
 *.json
 docker.env
+*.fgb
